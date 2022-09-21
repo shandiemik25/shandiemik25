@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shandiemik25
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Data Science and Web Development
+- 🌱 I’m currently learning Machine Learning, PHP, Laravel, Javascript, API, Node.JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mikolusshandie@gmail.com
 
